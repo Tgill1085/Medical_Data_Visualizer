@@ -1,3 +1,9 @@
+09/05/2021
+
+
+FreeCodeCamp Data Analysis with Python project that requires NumPy, Pandas, Seaborn, and MatPlotLib to visualize data. Also includes Lambda function usage. The solution to the project can be found in the medical_data_visualizer.py file, along with the PNGs created under catplot.png and heatmap.png.
+
+
 ### Assignment
 
 In this project, you will visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas. The dataset values were collected during medical examinations.
@@ -54,3 +60,6 @@ We imported the tests from `test_module.py` to `main.py` for your convenience. T
 ### Submitting
 
 Copy your project's URL and submit it to freeCodeCamp.
+
+
+https://replit.com/@TashaGill/boilerplate-medical-data-visualizer#main.py
